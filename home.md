@@ -14,10 +14,11 @@ TITLE:薫衣りぃ
 #cssbox("text-align: center;"){{
 &size(18){''＼2月20日で活動7周年記念！&#127882;／''};
 //#ref(.//1280x720_sample.jpg,nolink,)
-[[&ref(https://pbs.twimg.com/media/GiTUisJbwAAgBxx.jpg,nolink,50%,薫衣りぃ7周年);>https://www.youtube.com/@kunue-ri-YT/featured]]
+[[&ref(https://i.ytimg.com/vi/cfxM4mcBMd0/hqdefault.jpg,nolink,90%,薫衣りぃ7周年);>https://www.youtube.com/live/cfxM4mcBMd0?si=PTv-wztEntUjFUYv]]
 }}
 }}}
 &br;
+
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -58,7 +59,7 @@ CENTER:&ref(https://pbs.twimg.com/media/F5vEl6GaQAA92-0.jpg,nolink,50%);
 -''2021''
 --10月31日　[[登録者1000人突破>https://x.com/kunue_rychan/status/1454580277699772416]]
 -''2022''
---04月07日　[[初歌みた投稿>https://youtu.be/EBujFUZmIgY?si=30j8NChslBVZ2bXQ]]
+--04月07日　[[事実上の初歌みた投稿>https://youtu.be/EBujFUZmIgY?si=30j8NChslBVZ2bXQ]]
 -''2023''
 --03月23日　[[登録者1200人突破>https://x.com/kunue_rychan/status/1640572050564878337]]
 --04月20日　[[登録者1500人突破>https://www.youtube.com/post/Ugkxo2p9WFLJKRRbiFMGmkYDMnOVIRkrNpvO]]
@@ -83,6 +84,8 @@ CENTER:&ref(https://pbs.twimg.com/media/F5vEl6GaQAA92-0.jpg,nolink,50%);
 --10月13日　[[FANBOX開設！>https://www.fanbox.cc/@kunueri]]　詳細は[[ここ>https://kunueri.fanbox.cc/plans]]←をクリック
 --12月19日　[[人生初初グッズ販売>https://x.com/kunue_rychan/status/2001955338069922246]]
 --12月25日　[[初実写>https://youtu.be/qiV0M5mz4d4?si=zz8AzSwN1e_B__8b]]
+-''2026''
+--02月22日　[[モデルアップ！>https://www.youtube.com/live/cfxM4mcBMd0?si=iGR3ouc6m2DlMhQK]]
 
 
 }}
@@ -117,11 +120,13 @@ RIGHT:　[[画像引用元:本人のポスト>https://x.com/kunue_rychan/status/
 ** ''プロフィール'' [#tfcdb184]
 |CENTER:BGCOLOR(#e6e6fa):COLOR(#000000):120|CENTER:550|c
 |''名前''|CENTER:&size(14){&ruby(くぬえ){薫衣};りぃ};(Kunue Ri)|
+|''属性''|メイド兼、魔法使い|
 |''誕生日''|11月2日((香菱と誕生日が同じ))|
 |''年齢''|非公開|
 |''身長''|150cmくらい|
 |''体重''|？？？|
 |''血液型''|B型|
+|''MBTI''|ENFJ|
 |''愛称''|りぃちゃん/りぃ/ともりぃ((いつもしている挨拶「挨拶みなさんこんばんりぃ　お疲れ様です　どうもりぃです」を早く言うと「どもりぃです」になり、さらにラフに言うと「ともりぃです」に聞こえることからいじられている。))|
 |''一人称''|私|
 |''資格''|日本漢字能力検定3級&br;実用英語技能検定3級((【マーヴィカ伝説任務】完全初見で炎神様の過去に迫る…&#8265;【#原神】#genshinimpect>https://www.youtube.com/live/bBGEYk3-lPg?si=-anaB4Q2ksrtd-zd&t=9452))|
